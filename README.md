@@ -23,7 +23,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;<img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/725/screenshots/Ansible-Tower.png" alt="" width="240" height="99" /></p>
 <p class="MsoNormal">Ansible Tower (formerly &lsquo;AWX&rsquo;) from Red Hat is a commercial, web-based solution that makes the open-source tool Ansible easier to use for IT teams.</p>
 <p>&nbsp;</p>
 <p class="MsoNormal">The Ansible Tower action pack allows you to perform configuration tasks within an automated workflow, that would otherwise be conducted manually via the Ansible Tower GUI, such as adding groups and hosts to inventories and triggering job templates.</p>
