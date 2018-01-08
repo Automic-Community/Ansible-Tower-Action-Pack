@@ -9,13 +9,13 @@ http://github.com/Automic-Community/Ansible-Tower-Action-Pack
 Contents of Solution Package:
 
 						
-								*PCK.TK_ANSIBLE_TOWER_1.0.0.zip
+								*PCK.CUSTOM_ANSIBLE_TOWER_2.0.0.zip
 								
 								*Ansible-Tower-Action-Pack.docx
 								
-								*Ansible-Tower.png
+								*ansible-2.screenshot.png
 								
-								*screenshot.png
+								*Ansible-Tower.png
 								
 						
 
@@ -32,7 +32,7 @@ Copyright and License
 ---
 
 Solutions, Templates, Actions and other content available on the Automic Marketplace subject to the Automic [Developers Distribution License] (https://marketplace.automic.com/developers-distribution-license) as well as the Automic Community [Terms of Service] (https://marketplace.automic.com/community-terms-of-service).
-Automic does not support, maintain or warrant any content submitted by the Automic Community.
+Automic does not support, maintain or warrant any content submitted by the Automic-Community.
 
 
 
