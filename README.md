@@ -11,7 +11,7 @@ Contents of Solution Package:
 						
 								*PCK.CUSTOM_ANSIBLE_TOWER_2.0.0.zip
 								
-								*Ansible-Tower-Action-Pack.docx
+								*Ansible-Tower-Action-Pack_v2.docx
 								
 								*ansible-2.screenshot.png
 								
